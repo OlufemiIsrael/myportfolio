@@ -1,0 +1,37 @@
+@import "variables";
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  color: #333;
+  line-height: 1.6;
+  font-size: 18px;
+  font-weight: lighter;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  font-weight: lighter;
+  color: #333;
+}
+
+h1,
+h2 {
+  line-height: 1.2;
+  margin: 10px 0;
+}
+
+p {
+  margin: 10px 0;
+}
+
+img {
+  width: 100%;
+}
